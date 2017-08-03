@@ -1,0 +1,8 @@
+[Unit]
+Description=Daily apt update keys
+ConditionACPower=true
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/apt-key-updater.sh
+
