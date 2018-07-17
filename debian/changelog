@@ -1,4 +1,10 @@
-apt-key-updater (0.1.1-1) UNRELEASED; urgency=medium
+apt-key-updater (0.2-1) UNRELEASED; urgency=medium
+
+  * More robust implementation
+ 
+ -- Rike-Benjamin Schuppner <rike.schuppner@bccn-berlin.de>  Tue, 17 Jul 2018 12:00:00 +0200
+
+ apt-key-updater (0.1.1-1) UNRELEASED; urgency=medium
 
   * Ubuntu keyserver
 
